@@ -9,6 +9,7 @@ import VerCliente from './Page/VerCliente'
 
 function App() {
   
+  console.log(import.meta.env);
   return (
     <BrowserRouter>
       <Routes>
