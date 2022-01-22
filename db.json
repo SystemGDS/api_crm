@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jorge Oswaldo",
+      "empresa": "Guardianes Forestales",
+      "email": "systemgds@gmail.com",
+      "telefono": "961638535",
+      "notas": "Recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "Ruben",
+      "empresa": "Guardianes Forestales",
+      "email": "systemgds@gmail.com",
+      "telefono": "961638535",
+      "notas": "Por otro cliente",
+      "id": 2
+    },
+    {
+      "nombre": "Alexis Ramirez",
+      "empresa": "Chechi Producciones",
+      "email": "chechi@chechi.com",
+      "telefono": "952678135",
+      "notas": "Recomendado de Chechi",
+      "id": 3
+    },
+    {
+      "nombre": "Jorge Ruben",
+      "empresa": "Guardianes Forestales",
+      "email": "systemgds@gmail.com",
+      "telefono": "961638535",
+      "notas": "Recomendado por otro",
+      "id": 4
+    },
+    {
+      "nombre": "Jenny Panduro",
+      "empresa": "Inversiones RDA",
+      "email": "inversiones@rda.com",
+      "telefono": "945763247",
+      "notas": "Otro Cliente",
+      "id": 5
+    }
+  ]
+}
